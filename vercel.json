@@ -1,0 +1,15 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": null,
+  "installCommand": "npm install",
+  "devCommand": "npm run dev",
+  "functions": {
+    "node": {
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "NODE_VERSION": "22.x"
+  }
+}
