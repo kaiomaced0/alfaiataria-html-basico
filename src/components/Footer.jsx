@@ -67,7 +67,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
             >
-              © 2024 Alfaiataria Edimar
+              © 2026 Alfaiataria Edimar
             </a>
             {' '}- Todos os direitos reservados
           </p>

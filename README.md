@@ -76,4 +76,4 @@ Site criado para a Alfaiataria Edimar, showcasing 40 anos de excelência em alfa
 
 ---
 
-© 2024 Alfaiataria Edimar - Todos os direitos reservados
+© 2026 Alfaiataria Edimar - Todos os direitos reservados
